@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hey Dev´s!
+
+zakky hier, ich bin neu in der programmier branche!
